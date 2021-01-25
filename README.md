@@ -10,6 +10,9 @@ python ..intel/openvino/deployment_tools/model_optimizer/mo.py --input_model fro
 
 The model is about 73% accurate. To avoid double counting a person, simple features using the mean and standard deviation of pixels in the detected box are used to keep track of the person. 
 
+
+![detector](https://user-images.githubusercontent.com/5798711/105663512-4cfa4c80-5e87-11eb-8377-cd83b101793e.gif)
+
 ![Person_detect1](https://user-images.githubusercontent.com/5798711/104991295-45442f00-59d3-11eb-85f0-6487a7c36699.PNG)
 
 
