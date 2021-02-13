@@ -28,6 +28,8 @@ Frames/second processing time on various devices tested on Intel development clo
 
 
 
+![fps_trains](https://user-images.githubusercontent.com/5798711/107835157-62a7b700-6d4d-11eb-8750-da3429dae9c3.png)
+
 
 
 
