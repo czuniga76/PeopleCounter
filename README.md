@@ -20,6 +20,14 @@ Sample application in detecting congestion in train systems.
 
 ![detectorTrain](https://user-images.githubusercontent.com/5798711/107834934-a8b04b00-6d4c-11eb-928c-14df6eadb920.gif)
 
+Frames/second processing time on various devices tested on Intel development cloud
+1. CPU (i7)
+2. GPU (i7 with integrated GPU)
+3. VPU (Myriad visual processing unit)
+4. FPGA
+
+
+
 
 
 
